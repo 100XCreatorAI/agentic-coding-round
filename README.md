@@ -13,3 +13,4 @@ cp .env.example .env
 python -m src.main
 pytest
 ```
+# check
